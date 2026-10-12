@@ -9,6 +9,7 @@ Leetcode and Hacker Rank
 | [0001-two-sum](https://github.com/abuzar87/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abuzar87/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abuzar87/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/abuzar87/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abuzar87/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/abuzar87/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/abuzar87/DSA/tree/master/0704-binary-search) |
@@ -18,6 +19,7 @@ Leetcode and Hacker Rank
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abuzar87/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abuzar87/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/abuzar87/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/abuzar87/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/abuzar87/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/abuzar87/DSA/tree/master/0344-reverse-string) |
@@ -45,6 +47,7 @@ Leetcode and Hacker Rank
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abuzar87/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abuzar87/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
