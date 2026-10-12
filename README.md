@@ -12,6 +12,7 @@ Leetcode and Hacker Rank
 | [0215-kth-largest-element-in-an-array](https://github.com/abuzar87/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/abuzar87/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/abuzar87/DSA/tree/master/0704-binary-search) |
+| [1929-concatenation-of-array](https://github.com/abuzar87/DSA/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +54,8 @@ Leetcode and Hacker Rank
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abuzar87/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/abuzar87/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
