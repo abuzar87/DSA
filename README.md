@@ -9,6 +9,7 @@ Leetcode and Hacker Rank
 | [0001-two-sum](https://github.com/abuzar87/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abuzar87/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abuzar87/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/abuzar87/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/abuzar87/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abuzar87/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/abuzar87/DSA/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ Leetcode and Hacker Rank
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abuzar87/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/abuzar87/DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
