@@ -34,6 +34,7 @@ Leetcode and Hacker Rank
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abuzar87/DSA/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/abuzar87/DSA/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Leetcode and Hacker Rank
 | [0058-length-of-last-word](https://github.com/abuzar87/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/abuzar87/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/abuzar87/DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/abuzar87/DSA/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +68,8 @@ Leetcode and Hacker Rank
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/abuzar87/DSA/tree/master/1929-concatenation-of-array) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/abuzar87/DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
