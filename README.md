@@ -12,6 +12,7 @@ Leetcode and Hacker Rank
 | [0035-search-insert-position](https://github.com/abuzar87/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abuzar87/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abuzar87/DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/abuzar87/DSA/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abuzar87/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/abuzar87/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/abuzar87/DSA/tree/master/0704-binary-search) |
@@ -72,4 +73,8 @@ Leetcode and Hacker Rank
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/abuzar87/DSA/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/abuzar87/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
